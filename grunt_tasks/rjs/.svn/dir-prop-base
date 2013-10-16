@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 28
+node_modules
+*DS_Store
+*.db
+
+END

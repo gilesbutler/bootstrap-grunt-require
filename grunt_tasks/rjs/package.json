@@ -1,0 +1,24 @@
+{
+   "name": "specialoffers"
+  ,"baseName": "specialoffers"
+  ,"appdir": "App"
+  ,"description": "GruntJS build for concatenating and minifying js in an Requangular (RequireJS / AngularJS) web app"
+  ,"version": "0.1.0"
+  ,"author": {
+     "name": "Jim Doyle"
+    ,"email": "jim.doyle@hothouse.com.au, info@jimdoyle.com.au"
+  }
+  ,"repository": {
+     "type": "svn"
+    ,"wiki": "https://hothouse.onconfluence.com/display/DP/Project+-+Special+Offers+Rebuild+2013"
+  }
+  ,"engines": {
+    "node": "0.10.5"
+  }
+  ,"devDependencies": {
+     "grunt": "0.4.1"
+    ,"grunt-contrib-clean": "0.4.0"
+    ,"grunt-contrib-requirejs": "0.4.1"
+    ,"grunt-contrib-uglify" : "0.2.2"
+  }
+}

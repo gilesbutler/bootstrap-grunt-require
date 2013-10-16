@@ -1,0 +1,19 @@
+{
+  "name": "ra-toyota",
+  "version": "0.0.1",
+  "description": "Responsive / Adaptive Protoype for Toyota.com.au",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Giles Butler",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt-contrib-qunit": "~0.3.0",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-compass": "~0.6.0",
+    "grunt-devserver": "~0.5.0"
+  }
+}

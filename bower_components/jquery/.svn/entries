@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://gilesbutler@gilesbutler.svn.beanstalkapp.com/projects/Clients/HotHouse/dev/RA-toyota/dev/bower_components/jquery
+https://gilesbutler@gilesbutler.svn.beanstalkapp.com/projects
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0a19e2be-658f-4e61-893c-305edef3294c
+
+.bower.json
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+bower.json
+file
+
+
+
+add
+
+component.json
+file
+
+
+
+add
+
+composer.json
+file
+
+
+
+add
+
+jquery-migrate.js
+file
+
+
+
+add
+
+jquery-migrate.min.js
+file
+
+
+
+add
+
+jquery.js
+file
+
+
+
+add
+
+jquery.min.js
+file
+
+
+
+add
+
+jquery.min.map
+file
+
+
+
+add
+
+package.json
+file
+
+
+
+add
+
